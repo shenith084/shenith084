@@ -27,19 +27,6 @@ I am a 4th-year **Bachelor of Information and Communication Technology (Honours)
 * **Manglo**: A specialized mango disease detection system featuring a **CNN model**, built with a **React.js** frontend and **Flask** backend.
 * **Cancer Detection Model**: Developing deep learning solutions for medical diagnostics using **TensorFlow** and **Keras**.
 
-
-## 📊 My GitHub Statistics
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3Dshenith084%26theme%3Ddark" width="100%" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages%3Fusername%3Dshenith084%26theme%3Ddark" width="48%" />
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dshenith084%26theme%3Ddark" width="48%" />
-</p>
-
-
 ## 📫 Connect with me
 
 I am always open to exploring new challenges in **AI Engineering**, **Data Science**, and **Software Architecture**.
